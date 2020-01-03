@@ -1,0 +1,13 @@
+[debug] [2020-01-03T12:46:40.559Z] ----------------------------------------------------------------------
+[debug] [2020-01-03T12:46:40.560Z] Command:       /home/vuhienluong/.nvm/versions/node/v13.5.0/bin/node /usr/local/bin/firebase deploy
+[debug] [2020-01-03T12:46:40.560Z] CLI Version:   7.11.0
+[debug] [2020-01-03T12:46:40.560Z] Platform:      linux
+[debug] [2020-01-03T12:46:40.560Z] Node Version:  v13.5.0
+[debug] [2020-01-03T12:46:40.561Z] Time:          Fri Jan 03 2020 19:46:40 GMT+0700 (Indochina Time)
+[debug] [2020-01-03T12:46:40.561Z] ----------------------------------------------------------------------
+[debug] [2020-01-03T12:46:40.561Z] 
+[debug] [2020-01-03T12:46:40.566Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2020-01-03T12:46:40.566Z] > authorizing via signed-in user
+[debug] [2020-01-03T12:46:40.566Z] [iam] checking project vuetify-material-dashboa-4ce96 for permissions ["firebase.projects.get","firebasehosting.sites.update"]
+[debug] [2020-01-03T12:46:40.567Z] >>> HTTP REQUEST POST https://cloudresourcemanager.googleapis.com/v1/projects/vuetify-material-dashboa-4ce96:testIamPermissions  
+
